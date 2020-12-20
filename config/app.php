@@ -175,6 +175,8 @@ return [
         App\Providers\EventServiceProvider::class,
         App\Providers\RouteServiceProvider::class,
 
+        Gluck1986\Support\AutoDoc\AutoDocServiceProvider::class,
+
     ],
 
     /*
